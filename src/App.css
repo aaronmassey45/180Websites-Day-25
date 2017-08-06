@@ -1,0 +1,17 @@
+body {
+  background-color: #b8bec6;
+}
+.SearchBar {
+  position: relative;
+}
+.Magnet {
+  background: tan;
+  border-right: 1.5px solid black;
+  border-bottom: 1px solid black;
+  padding: 5px;
+  position: relative;
+  box-shadow: 0 0 6px 0 grey;
+}
+.Magnet:active {
+  box-shadow: 0 0 20px 0 black;
+}
